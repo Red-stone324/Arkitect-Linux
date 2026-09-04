@@ -1,0 +1,29 @@
+---
+componentName: default
+welcomeStyleCalamares: false
+welcomeExpandingLogo: true
+windowExpanding: normal
+windowPlacement: center
+sidebar: widget
+navigation: widget
+
+strings:
+    productName:         "Arkitect Linux"
+    version:             "0.0.1"
+    shortProductName:    "Arkitect"
+    versionedName:       "Arkitect Linux Cheesecake 0.0.1"
+    shortVersionedName:  "Arkitect Cheesecake 0.0.1"
+    shortVersion:        "0.0.1"
+
+images:
+    productLogo:         "squid.png"
+    productIcon:         "squid.png"
+    productWelcome:      "languages.png"
+
+slideshow: "show.qml"
+slideshowAPI: 1
+
+style:
+    sidebarBackground:    "#292F34"
+    sidebarText:          "#FFFFFF"
+    sidebarTextSelect:    "#292F34"

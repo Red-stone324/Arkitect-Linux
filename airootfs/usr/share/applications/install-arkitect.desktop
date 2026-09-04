@@ -1,0 +1,11 @@
+[Desktop Entry]
+Type=Application
+Version=1.0
+Name=Install Arkitect Linux
+GenericName=System Installer
+Comment=Install Arkitect Linux to your computer
+Exec=sudo calamares
+Icon=calamares
+Terminal=false
+StartupNotify=true
+Categories=System;
